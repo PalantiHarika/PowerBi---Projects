@@ -1,3 +1,4 @@
+This is an overview of SN Sales Dashboard which I have created using PowerBi.
 This is an interactive dashboard provides valuable insights into company performance across various multiple KPI's.
 KEY FEATURES:
 Total sales,cost & Profit Overview : Highlighting finanacial metrics with clear KPI cards.
